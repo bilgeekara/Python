@@ -1,4 +1,4 @@
-website = "https://github.com/omerfarballi"
+website = "https://github.com/bilgeekara"
 course  = "Python 3.9  Python Dersleri "
 # 1-  ' Merhaba Dünya  ' karakter dizisinin baş ve sondaki boşluk karakterlerini silin.
 # result = ' Merhaba Dünya  '.strip()
