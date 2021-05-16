@@ -7,7 +7,7 @@
 
 #enumerate
 # index = 0
-name = 'Ömer'
+name = 'Bilge'
 for index,letter in enumerate(name) :
 
     print(index,' ',letter)
