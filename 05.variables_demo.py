@@ -15,10 +15,10 @@ Okul masrafları 2500
 Aylık kredi tutarı 5000 
 
 '''
-musteri_adi = "Enes"
-musteri_soyisimi = "Çiftçi"
+musteri_adi = "Bilge"
+musteri_soyisimi = "Kara"
 tc_no = '16786578388'
-musteri_adresi = ' Bursa İnegöl '
+musteri_adresi = ' Istanbul '
 dogum_yili = "1995"
 musteri_yasi = 2021 - int(dogum_yili)
 print(musteri_yasi)
