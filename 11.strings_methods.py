@@ -1,4 +1,4 @@
-message = "Merhaba. Benim adım Ömer "
+message = "Merhaba. Benim adım Bilge "
 # message = message.upper()
 # message = message.lower()
 # message = message.title()
@@ -8,11 +8,11 @@ message = "Merhaba. Benim adım Ömer "
 # message = message.split('.')
 # message = '/'.join(message)
 # index = message.find("ben")
-# bulundu_mu = message.startswith('Ö') 
+# bulundu_mu = message.startswith('B') 
 # print(bulundu_mu)
-# message = message.replace('Ömer', "Mehmet")
+# message = message.replace('Ömer', "Bilge")
 # message = message.replace(' ', "**")
-# message = message.replace('Ö', "O").replace(" ", "+").replace('ı', 'i')
+# message = message.replace('B', "b").replace(" ", "+").replace('ı', 'i')
 # message = message.center(50,"*")
 
 
