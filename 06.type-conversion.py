@@ -10,7 +10,7 @@ print(toplam)
 '''
 age = 18            #int
 money = 85.5        #float
-name = "Ömer"       #str(string)
+name = "Bilge"       #str(string)
 isStudent = True    #Bool 
 # print(type(age))
 # print(type(name))
