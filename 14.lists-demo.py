@@ -35,11 +35,11 @@ result = arabalar
 result = arabalar[::-1]
 # 13- Aşağıdaki verileri bir liste içinde saklayınız. 
     # studentA: Ömer Faruk Ballı 2000, (90,89,98)
-    # studentB: Mehmet Bozkurt  1999, (97,80,99)
-    # studentC: Emre Çimen 1998, (80,70,90) 
+    # studentB: Bilgenur Kara  1999, (97,80,99)
+    # studentC: Bulut Kaara 1998, (80,70,90) 
 studentA = ['Ömer Faruk','Ballı',2000,[90,89,98]]
-studentB = ['Mehmet','Bozkurt',1999,[97,80,99]]
-studentC = ['Emre','Çimen',1998,[80,70,90]]
+studentB = ['Bilgenur','Kara',1999,[97,80,99]]
+studentC = ['Bulut','Kara',1998,[80,70,90]]
 # 14- Liste elemanlarını ekrana yazdırınız.
 result = studentA[3]
 result = studentA[3][1]
