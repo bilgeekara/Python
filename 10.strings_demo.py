@@ -1,4 +1,4 @@
-website = "https://github.com/omerfarballi"
+website = "https://github.com/bilgeekara"
 course = "Python 3.9 Dersleri"
 lenght = len(website)
 # 1- "course" değişkeninin uzunluğunu bulun
