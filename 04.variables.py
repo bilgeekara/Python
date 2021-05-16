@@ -25,9 +25,9 @@ print(age,AGE,Age)
 #Türkçe karakter kullnamayalım
 age = 18            #int
 money = 85.5        #float
-name = "Ömer"       #str(string)
+name = "Bilge"       #str(string)
 isStudent = True    #Bool 
-age , money , name , isStudent = (18,85.6,'Ömer Faruk ',True )
+age , money , name , isStudent = (18,85.6,'Bilgenur ',True )
 
 number1 = '25'
 number2 = '52'
