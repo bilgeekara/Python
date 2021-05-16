@@ -1,5 +1,5 @@
-name = "Ömer Faruk"
-surname = 'Ballı'
+name = "Bilgenur"
+surname = 'Kara'
 # print("My name is {} {}".format(name,surname))
 #print("My name is {1} {0}".format(name,surname)) # ctrl + k + u
 # print("My name is {s} {n}".format(n=name,s=surname))
